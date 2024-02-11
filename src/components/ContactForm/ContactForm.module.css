@@ -21,7 +21,7 @@ input {
   color: purple;
   outline: 2px solid transparent;
 }
-.input:focus {
+input:focus {
   outline: 2px solid pink;
   border: 2px solid transparent;
 }
@@ -35,9 +35,4 @@ input {
   width: 150px;
   color: purple;
   background-color: rgba(221, 160, 221, 0.534);
-}
-.formLabel {
-  font-size: 20px;
-  font-weight: bold;
-  color: purple;
 }
